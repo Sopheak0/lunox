@@ -167,6 +167,20 @@ span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-b
 @media (min-width: 992px) and (max-width: 1199px) {
 	.ds-banner section{ padding-right: 0; }
 	.ds-work-list section{ padding-right: 30px; padding-bottom:60px; }
-
-
 }
+.single-post-wrap {
+  margin-bottom: 20px;
+}
+
+.tag-base {
+	height: 28px;
+	line-height: 28px;
+	padding: 0 14px;
+	display: inline-block;
+	border-radius: 3px;
+	font-size: 15px;
+}
+.tag-purple {
+	background: #7530ff;
+	color: #fff;
+  }
